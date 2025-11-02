@@ -45,7 +45,17 @@ A **staking platform** built with **Next.js, Solidity, Foundry, and Viem**, allo
 - Real-time **on-chain data fetching** using Viem
 
 ---
-#screenshots of foundry and slither testing
+### Screenshots of foundry and onchain testing
+This project underwent static analysis with **Slither** to detect potential vulnerabilities.
+
+- No critical or high-risk issues detected  
+- Minor warnings for strict equality and timestamp usage (common in staking logic)  
+- SafeERC20 assembly confirmed secure via OpenZeppelin  
+- Solidity version differences originate from library dependencies 
+
+### Foundry screenshots
+![Foundry Tests](./screenshots/foundry-vaulttest.png)
+![onchain Tests](./screenshots/sepo-transactionrt.png)
 
 
 
