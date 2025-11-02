@@ -1,6 +1,6 @@
 # 🪙 Staking Vault dApp
 
-A **full-stack staking platform** built with **Next.js, Solidity, Foundry, and Viem**, allowing users to **stake ERC20 tokens**, **earn time-based rewards**, and **claim/withdraw** seamlessly.
+A **staking platform** built with **Next.js, Solidity, Foundry, and Viem**, allowing users to **stake ERC20 tokens**, **earn time-based rewards**, and **claim/withdraw** seamlessly.
 
 > Deployed on **Sepolia Testnet** — designed with **gas efficiency**, **security**, and **beautiful UX** in mind.
 
@@ -39,9 +39,14 @@ A **full-stack staking platform** built with **Next.js, Solidity, Foundry, and V
 
 ---
 
-### 💻 Frontend (Next.js + Viem)
+### Frontend (Next.js + Viem)
 - Wallet connection via **WalletConnect v2**  
 - **Stake / Withdraw / Claim Rewards** directly through contract functions  
-- Real-time **on-chain data fetching** using Viem  
+- Real-time **on-chain data fetching** using Viem
+
+---
+#screenshots of foundry and slither testing
+
+
 
 
