@@ -1,4 +1,5 @@
-# 🪙 Staking Vault dApp
+# 🪙 Staking Vault dApp 
+## Reward distribution and NotifyReward is managed by the admin ( me :) )
 
 A **staking platform** built with **Next.js, Solidity, Foundry, and Viem**, allowing users to **stake ERC20 tokens**, **earn time-based rewards**, and **claim/withdraw** seamlessly.
 
